@@ -11,9 +11,5 @@
   </PropertyGroup>
   <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <SourceRoot Include="/Users/ivylee/.nuget/packages/" />
-        <Folder Include="TextFiles" />
-    <Content Include="TextFiles/**">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
   </ItemGroup>
 </Project>

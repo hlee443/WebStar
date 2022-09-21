@@ -4,5 +4,11 @@
     <TargetFramework>net6.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
+    <ItemGroup>
+      <Folder Include="TextFiles" />
+      <Content Include="TextFiles/**">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </Content>
+    </ItemGroup>
   </PropertyGroup>
 </Project>
