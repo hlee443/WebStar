@@ -1,16 +1,16 @@
 ﻿@{
     ViewData["Title"] = "Display Page";
-    string directoryPath = "./TextFiles/";
+    var path = ViewData["filePath"] as string;
+    var content = System.IO.File.ReadAllText(path);
+
+
 }
 
 <div class="text-center">
     <h1 class="display-4">Welcome</h1>
     <p>Here we post the file Display</p>
-    @foreach (string file in Directory.EnumerateFiles(directoryPath, "*.txt"))
-    {
-        string display = File.ReadAllText(file);
-        <p>@display</p>
+    <p></p>
+    <p>@content</p>
 
-    }
 
 </div>

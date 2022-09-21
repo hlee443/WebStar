@@ -8,45 +8,45 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WebStar
 build_property.RootNamespace = WebStar
-build_property.ProjectDir = /Users/ivylee/Documents/Term 3/COMP_3514/Lab_3/WebStar/
+build_property.ProjectDir = /Users/ivylee/Documents/GitHub/WebStar/
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/ivylee/Documents/Term 3/COMP_3514/Lab_3/WebStar
+build_property.MSBuildProjectDirectory = /Users/ivylee/Documents/GitHub/WebStar
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/ivylee/Documents/Term 3/COMP_3514/Lab_3/WebStar/Views/Files/Display.cshtml]
+[/Users/ivylee/Documents/GitHub/WebStar/Views/Files/Display.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRmlsZXMvRGlzcGxheS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ivylee/Documents/Term 3/COMP_3514/Lab_3/WebStar/Views/Files/Index.cshtml]
+[/Users/ivylee/Documents/GitHub/WebStar/Views/Files/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRmlsZXMvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ivylee/Documents/Term 3/COMP_3514/Lab_3/WebStar/Views/Home/Index.cshtml]
+[/Users/ivylee/Documents/GitHub/WebStar/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ivylee/Documents/Term 3/COMP_3514/Lab_3/WebStar/Views/Home/Privacy.cshtml]
+[/Users/ivylee/Documents/GitHub/WebStar/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ivylee/Documents/Term 3/COMP_3514/Lab_3/WebStar/Views/Shared/Error.cshtml]
+[/Users/ivylee/Documents/GitHub/WebStar/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ivylee/Documents/Term 3/COMP_3514/Lab_3/WebStar/Views/Shared/_ValidationScriptsPartial.cshtml]
+[/Users/ivylee/Documents/GitHub/WebStar/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ivylee/Documents/Term 3/COMP_3514/Lab_3/WebStar/Views/_ViewImports.cshtml]
+[/Users/ivylee/Documents/GitHub/WebStar/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ivylee/Documents/Term 3/COMP_3514/Lab_3/WebStar/Views/_ViewStart.cshtml]
+[/Users/ivylee/Documents/GitHub/WebStar/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ivylee/Documents/Term 3/COMP_3514/Lab_3/WebStar/Views/Shared/_Layout.cshtml]
+[/Users/ivylee/Documents/GitHub/WebStar/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-c162bxpmys

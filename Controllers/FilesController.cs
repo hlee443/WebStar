@@ -23,8 +23,11 @@ public class FilesController : Controller
         return View();
     }
 
-    public IActionResult Display(string[] file)
+    public IActionResult Display(string id)
     {
+        string path = $"./TextFiles/{id}";
+        ViewData["filePath"] = path;
+
         return View();
     }
 

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ivylee/Documents/Term 3/COMP_3514/Lab_3/WebStar/WebStar.csproj": {}
+    "/Users/ivylee/Documents/GitHub/WebStar/WebStar.csproj": {}
   },
   "projects": {
-    "/Users/ivylee/Documents/Term 3/COMP_3514/Lab_3/WebStar/WebStar.csproj": {
+    "/Users/ivylee/Documents/GitHub/WebStar/WebStar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ivylee/Documents/Term 3/COMP_3514/Lab_3/WebStar/WebStar.csproj",
+        "projectUniqueName": "/Users/ivylee/Documents/GitHub/WebStar/WebStar.csproj",
         "projectName": "WebStar",
-        "projectPath": "/Users/ivylee/Documents/Term 3/COMP_3514/Lab_3/WebStar/WebStar.csproj",
+        "projectPath": "/Users/ivylee/Documents/GitHub/WebStar/WebStar.csproj",
         "packagesPath": "/Users/ivylee/.nuget/packages/",
-        "outputPath": "/Users/ivylee/Documents/Term 3/COMP_3514/Lab_3/WebStar/obj/",
+        "outputPath": "/Users/ivylee/Documents/GitHub/WebStar/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ivylee/.nuget/NuGet/NuGet.Config"
