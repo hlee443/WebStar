@@ -11,5 +11,6 @@
   </PropertyGroup>
   <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <SourceRoot Include="/Users/ivylee/.nuget/packages/" />
+    <ProjectReference Include="..\BcitLibrary\BcitLibrary.csproj" />
   </ItemGroup>
 </Project>
